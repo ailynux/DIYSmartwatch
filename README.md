@@ -53,9 +53,6 @@
 
 ## Uses
 
-
-You can take a look at some live examples that can be built using **refine** from scratch:
-
 -   
 -   
 -   
